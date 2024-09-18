@@ -1,6 +1,6 @@
 ---
 title: 2024-09-18PointLight
-tags: AI，AIART
+tags: AI，AIART,C++,UE,light,.h
 category: /2024-09-18
 grammar_cjkRuby: true
 ---
